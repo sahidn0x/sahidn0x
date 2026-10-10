@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-# I am Sahid.
+ I am Sahid.
 
 ### somewhere between logic and intelligence.
 
@@ -27,5 +26,5 @@ Drawn to the unknown, driven by curiosity.
 
 ---
 
-`[ end of transmission ]`
+[ end of transmission ]
 -->

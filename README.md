@@ -1,16 +1,31 @@
 ## Hi there 👋
 
 <!--
-**sahidn0x/sahidn0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I am Sahid.
 
-Here are some ideas to get you started:
+### somewhere between logic and intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I observe. I experiment. I build.
+
+Exploring machine intelligence, one layer at a time.
+Drawn to the unknown, driven by curiosity.
+
+## // current state
+
+- learning in silence
+- building in private
+- progressing beyond the visible
+
+## // interests
+
+- artificial intelligence
+- machine learning
+- deep learning
+- intelligent systems
+
+> Not everything needs to be seen to be real.
+
+---
+
+`[ end of transmission ]`
 -->
